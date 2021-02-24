@@ -15,3 +15,5 @@ const block1 = new Block({
 });
 
 console.log('block1', block1);
+
+module.exports = Block;
